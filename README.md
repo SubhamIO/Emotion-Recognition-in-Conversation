@@ -30,4 +30,4 @@
 - Just go to the end of 'EmotionfromConv.ipynb' and run the Inference model and get the desired output.
 
 
-
+## Project Report  : https://github.com/SubhamIO/Emotion-Recognition-in-Conversation/blob/master/Project%20Report%20-%20EmotionFromConv.pdf
