@@ -24,4 +24,10 @@
 
 ## Metric Used: MULTI CLASS LOG LOSS
 
+## For Inference : 
+
+- I have kept things simple and consolidated into single .ipynb file. 
+- Just go to the end of 'EmotionfromConv.ipynb' and run the Inference model and get the desired output.
+
+
 
