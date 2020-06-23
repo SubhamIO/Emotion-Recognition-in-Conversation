@@ -28,6 +28,6 @@
 
 - I have kept things simple and consolidated into single .ipynb file. 
 - Just go to the end of 'EmotionfromConv.ipynb' and run the Inference model and get the desired output.
-
+- To load Glove file : https://drive.google.com/file/d/1zA-Tc6pnFvXxnGK54-aUxBqmlV2y50mH/view?usp=sharing
 
 ## Project Report  : https://github.com/SubhamIO/Emotion-Recognition-in-Conversation/blob/master/Project%20Report%20-%20EmotionFromConv.pdf
