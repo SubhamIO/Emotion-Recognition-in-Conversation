@@ -26,6 +26,7 @@
 
 ## For Inference : 
 
+- Firstly, load all the dependencies.
 - I have kept things simple and consolidated into single .ipynb file. 
 - Just go to the end of 'EmotionfromConv.ipynb' and run the Inference model and get the desired output.
 - To load Glove file : https://drive.google.com/file/d/1zA-Tc6pnFvXxnGK54-aUxBqmlV2y50mH/view?usp=sharing
